@@ -10,7 +10,7 @@ public class StudentConfig {
 	
 	@Bean
 	public void studentFactory() {
-		System.out.println("Configuration class called 123");
+		System.out.println("Configuration class called .....");
 	}
 	
 //	public Person getPerson() {
